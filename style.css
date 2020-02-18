@@ -525,7 +525,7 @@ margin-top: 5px;
 }
 #banner
 {
-    background: url('../img/banner_responsive.png') no-repeat;
+    background: url('banner_responsive.png') no-repeat;
     background-size: cover;
     min-height: 908px;
 }
