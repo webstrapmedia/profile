@@ -525,8 +525,8 @@ margin-top: 5px;
 }
 #banner
 {
-    background: url('banner_responsive.png') no-repeat;
-    background-size: cover;
+   /* background: url('../img/banner_responsive.png') no-repeat;*/
+    /*background-size: cover;*/
     min-height: 908px;
 }
 .navbar-default
@@ -808,7 +808,11 @@ cta
     padding: 56px 20px 20px;
 }
 }
-.xl-padding-top-50
+.xl-padding-top-10px
+{
+	padding-top: 10px;
+}
+.xl-padding-top-10
 {
 	padding-top: 10%;
 }
